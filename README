@@ -1,0 +1,20 @@
+ANU COMP1100 Assignment 2011
+
+To make your own level go to "src/levels/default.joseph".
+
+Follow the file format, and then add the filename of the level to "src/levels/levels.sam".
+
+It does support an internet high scores list but I lost the server code, you could probably work out what to send and receive.
+
+Additional map tiles:
+0 = Hole 
+1 = Floor 
+2 = Wall 
+3 = Spawn 
+4 = Goal 
+5 = North Booster
+6 = East Booster
+7 = South Booster
+8 = West Booster
+9 = Gate (5 seconds) 
+10 = Inverted Gate (5 seconds)
