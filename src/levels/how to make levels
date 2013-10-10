@@ -1,0 +1,11 @@
+0 = Hole 
+1 = Floor 
+2 = Wall 
+3 = Spawn 
+4 = Goal 
+5 = North Booster
+6 = East Booster
+7 = South Booster
+8 = West Booster
+9 = Gate (5 seconds) 
+10 = Inverted Gate (5 seconds)
